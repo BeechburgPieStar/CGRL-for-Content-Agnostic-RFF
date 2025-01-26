@@ -1,4 +1,4 @@
-# CGRL-for-Content-Agnostic-RFFI
+# CGRL-for-Content-Agnostic-RFF
 
 ## (CL2025 Accept!) Consistency-Guided Robust Learning for Content-Agnostic Radio Frequency Fingerprinting
 
