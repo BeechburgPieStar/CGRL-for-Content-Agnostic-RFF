@@ -30,6 +30,12 @@ python main.py --gpu 0 --len_mark 32 --lam_ACR 0.001 --lam_SCR 0.01 --code_state
 /log
 ```
 
+### Dataset
+
+```
+The code for dataset generation is provided in the archive file ``Dataset_SNR_Content_Independent.rar,'' with reference to and thanks to [WTI-Cyber-Team](https://github.com/WTI-Cyber-Team/Public_Wireless_Signal_Datasets)
+```
+
 ### Requirement
 
 ```
