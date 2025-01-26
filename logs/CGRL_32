@@ -1,0 +1,701 @@
+Train Epoch: 1 	Loss: 1.289435, Accuracy: 1570/3500 (44.857143%)
+
+
+Validation set: Loss: 0.7380, Accuracy: 1066/1500 (71.066667%)
+
+The validation loss is improved from 100 to 0.7380383602778117, new model weight is saved.
+------------------------------------------------
+Train Epoch: 2 	Loss: 0.613068, Accuracy: 2728/3500 (77.942857%)
+
+
+Validation set: Loss: 0.4832, Accuracy: 1249/1500 (83.266667%)
+
+The validation loss is improved from 0.7380383602778117 to 0.4831997315088908, new model weight is saved.
+------------------------------------------------
+Train Epoch: 3 	Loss: 0.389954, Accuracy: 2972/3500 (84.914286%)
+
+
+Validation set: Loss: 0.3881, Accuracy: 1308/1500 (87.200000%)
+
+The validation loss is improved from 0.4831997315088908 to 0.3881136070092519, new model weight is saved.
+------------------------------------------------
+Train Epoch: 4 	Loss: 0.292756, Accuracy: 3054/3500 (87.257143%)
+
+
+Validation set: Loss: 0.7681, Accuracy: 1015/1500 (67.666667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 5 	Loss: 0.224764, Accuracy: 3100/3500 (88.571429%)
+
+
+Validation set: Loss: 0.6560, Accuracy: 1106/1500 (73.733333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 6 	Loss: 0.184448, Accuracy: 3156/3500 (90.171429%)
+
+
+Validation set: Loss: 0.2488, Accuracy: 1376/1500 (91.733333%)
+
+The validation loss is improved from 0.3881136070092519 to 0.2487780279715856, new model weight is saved.
+------------------------------------------------
+Train Epoch: 7 	Loss: 0.159168, Accuracy: 3161/3500 (90.314286%)
+
+
+Validation set: Loss: 0.5833, Accuracy: 1180/1500 (78.666667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 8 	Loss: 0.116379, Accuracy: 3232/3500 (92.342857%)
+
+
+Validation set: Loss: 0.2570, Accuracy: 1359/1500 (90.600000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 9 	Loss: 0.107256, Accuracy: 3202/3500 (91.485714%)
+
+
+Validation set: Loss: 1.6273, Accuracy: 881/1500 (58.733333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 10 	Loss: 0.096482, Accuracy: 3237/3500 (92.485714%)
+
+
+Validation set: Loss: 0.3150, Accuracy: 1319/1500 (87.933333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 11 	Loss: 0.070466, Accuracy: 3270/3500 (93.428571%)
+
+
+Validation set: Loss: 0.2215, Accuracy: 1369/1500 (91.266667%)
+
+The validation loss is improved from 0.2487780279715856 to 0.22154111917813618, new model weight is saved.
+------------------------------------------------
+Train Epoch: 12 	Loss: 0.068526, Accuracy: 3266/3500 (93.314286%)
+
+
+Validation set: Loss: 0.4397, Accuracy: 1255/1500 (83.666667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 13 	Loss: 0.042801, Accuracy: 3339/3500 (95.400000%)
+
+
+Validation set: Loss: 0.5617, Accuracy: 1244/1500 (82.933333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 14 	Loss: 0.045728, Accuracy: 3324/3500 (94.971429%)
+
+
+Validation set: Loss: 0.2039, Accuracy: 1395/1500 (93.000000%)
+
+The validation loss is improved from 0.22154111917813618 to 0.20393685603141784, new model weight is saved.
+------------------------------------------------
+Train Epoch: 15 	Loss: 0.038109, Accuracy: 3344/3500 (95.542857%)
+
+
+Validation set: Loss: 0.2269, Accuracy: 1360/1500 (90.666667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 16 	Loss: 0.039382, Accuracy: 3328/3500 (95.085714%)
+
+
+Validation set: Loss: 0.3815, Accuracy: 1314/1500 (87.600000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 17 	Loss: 0.029488, Accuracy: 3343/3500 (95.514286%)
+
+
+Validation set: Loss: 0.3019, Accuracy: 1329/1500 (88.600000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 18 	Loss: 0.035944, Accuracy: 3314/3500 (94.685714%)
+
+
+Validation set: Loss: 0.2391, Accuracy: 1370/1500 (91.333333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 19 	Loss: 0.026547, Accuracy: 3356/3500 (95.885714%)
+
+
+Validation set: Loss: 0.8337, Accuracy: 1127/1500 (75.133333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 20 	Loss: 0.018861, Accuracy: 3388/3500 (96.800000%)
+
+
+Validation set: Loss: 0.5538, Accuracy: 1267/1500 (84.466667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 21 	Loss: 0.037913, Accuracy: 3294/3500 (94.114286%)
+
+
+Validation set: Loss: 1.2432, Accuracy: 1076/1500 (71.733333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 22 	Loss: 0.035858, Accuracy: 3320/3500 (94.857143%)
+
+
+Validation set: Loss: 0.6626, Accuracy: 1188/1500 (79.200000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 23 	Loss: 0.033853, Accuracy: 3329/3500 (95.114286%)
+
+
+Validation set: Loss: 0.3952, Accuracy: 1315/1500 (87.666667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 24 	Loss: 0.031337, Accuracy: 3286/3500 (93.885714%)
+
+
+Validation set: Loss: 0.4022, Accuracy: 1314/1500 (87.600000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 25 	Loss: 0.021729, Accuracy: 3341/3500 (95.457143%)
+
+
+Validation set: Loss: 0.2744, Accuracy: 1346/1500 (89.733333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 26 	Loss: 0.014369, Accuracy: 3389/3500 (96.828571%)
+
+
+Validation set: Loss: 0.2997, Accuracy: 1347/1500 (89.800000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 27 	Loss: 0.011853, Accuracy: 3392/3500 (96.914286%)
+
+
+Validation set: Loss: 0.2544, Accuracy: 1360/1500 (90.666667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 28 	Loss: 0.009920, Accuracy: 3390/3500 (96.857143%)
+
+
+Validation set: Loss: 0.2302, Accuracy: 1382/1500 (92.133333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 29 	Loss: 0.009853, Accuracy: 3403/3500 (97.228571%)
+
+
+Validation set: Loss: 0.1722, Accuracy: 1412/1500 (94.133333%)
+
+The validation loss is improved from 0.20393685603141784 to 0.1722051296432813, new model weight is saved.
+------------------------------------------------
+Train Epoch: 30 	Loss: 0.008279, Accuracy: 3413/3500 (97.514286%)
+
+
+Validation set: Loss: 0.2696, Accuracy: 1365/1500 (91.000000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 31 	Loss: 0.014973, Accuracy: 3377/3500 (96.485714%)
+
+
+Validation set: Loss: 0.3470, Accuracy: 1337/1500 (89.133333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 32 	Loss: 0.059293, Accuracy: 3299/3500 (94.257143%)
+
+
+Validation set: Loss: 1.0768, Accuracy: 1069/1500 (71.266667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 33 	Loss: 0.059199, Accuracy: 3280/3500 (93.714286%)
+
+
+Validation set: Loss: 0.2924, Accuracy: 1354/1500 (90.266667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 34 	Loss: 0.034308, Accuracy: 3298/3500 (94.228571%)
+
+
+Validation set: Loss: 0.3363, Accuracy: 1338/1500 (89.200000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 35 	Loss: 0.019968, Accuracy: 3347/3500 (95.628571%)
+
+
+Validation set: Loss: 0.4119, Accuracy: 1295/1500 (86.333333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 36 	Loss: 0.010896, Accuracy: 3387/3500 (96.771429%)
+
+
+Validation set: Loss: 0.5278, Accuracy: 1258/1500 (83.866667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 37 	Loss: 0.010775, Accuracy: 3411/3500 (97.457143%)
+
+
+Validation set: Loss: 0.5180, Accuracy: 1268/1500 (84.533333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 38 	Loss: 0.022803, Accuracy: 3330/3500 (95.142857%)
+
+
+Validation set: Loss: 0.3743, Accuracy: 1335/1500 (89.000000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 39 	Loss: 0.035153, Accuracy: 3321/3500 (94.885714%)
+
+
+Validation set: Loss: 0.2504, Accuracy: 1383/1500 (92.200000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 40 	Loss: 0.012929, Accuracy: 3368/3500 (96.228571%)
+
+
+Validation set: Loss: 0.3070, Accuracy: 1353/1500 (90.200000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 41 	Loss: 0.009821, Accuracy: 3391/3500 (96.885714%)
+
+
+Validation set: Loss: 0.5527, Accuracy: 1239/1500 (82.600000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 42 	Loss: 0.019592, Accuracy: 3351/3500 (95.742857%)
+
+
+Validation set: Loss: 0.2045, Accuracy: 1388/1500 (92.533333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 43 	Loss: 0.010439, Accuracy: 3403/3500 (97.228571%)
+
+
+Validation set: Loss: 0.2786, Accuracy: 1364/1500 (90.933333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 44 	Loss: 0.014625, Accuracy: 3375/3500 (96.428571%)
+
+
+Validation set: Loss: 1.3128, Accuracy: 1031/1500 (68.733333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 45 	Loss: 0.025062, Accuracy: 3332/3500 (95.200000%)
+
+
+Validation set: Loss: 0.6974, Accuracy: 1243/1500 (82.866667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 46 	Loss: 0.021652, Accuracy: 3320/3500 (94.857143%)
+
+
+Validation set: Loss: 0.4241, Accuracy: 1318/1500 (87.866667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 47 	Loss: 0.017425, Accuracy: 3365/3500 (96.142857%)
+
+
+Validation set: Loss: 0.2263, Accuracy: 1392/1500 (92.800000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 48 	Loss: 0.030650, Accuracy: 3352/3500 (95.771429%)
+
+
+Validation set: Loss: 0.2289, Accuracy: 1394/1500 (92.933333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 49 	Loss: 0.031625, Accuracy: 3332/3500 (95.200000%)
+
+
+Validation set: Loss: 1.1595, Accuracy: 1095/1500 (73.000000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 50 	Loss: 0.048229, Accuracy: 3285/3500 (93.857143%)
+
+
+Validation set: Loss: 0.7551, Accuracy: 1191/1500 (79.400000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 51 	Loss: 0.039635, Accuracy: 3337/3500 (95.342857%)
+
+
+Validation set: Loss: 0.3496, Accuracy: 1355/1500 (90.333333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 52 	Loss: 0.015289, Accuracy: 3382/3500 (96.628571%)
+
+
+Validation set: Loss: 0.1834, Accuracy: 1415/1500 (94.333333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 53 	Loss: 0.019240, Accuracy: 3371/3500 (96.314286%)
+
+
+Validation set: Loss: 0.2695, Accuracy: 1386/1500 (92.400000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 54 	Loss: 0.013002, Accuracy: 3385/3500 (96.714286%)
+
+
+Validation set: Loss: 0.2131, Accuracy: 1399/1500 (93.266667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 55 	Loss: 0.007714, Accuracy: 3398/3500 (97.085714%)
+
+
+Validation set: Loss: 0.1922, Accuracy: 1410/1500 (94.000000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 56 	Loss: 0.010570, Accuracy: 3413/3500 (97.514286%)
+
+
+Validation set: Loss: 0.2765, Accuracy: 1378/1500 (91.866667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 57 	Loss: 0.020666, Accuracy: 3329/3500 (95.114286%)
+
+
+Validation set: Loss: 0.4575, Accuracy: 1318/1500 (87.866667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 58 	Loss: 0.010676, Accuracy: 3399/3500 (97.114286%)
+
+
+Validation set: Loss: 0.4810, Accuracy: 1293/1500 (86.200000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 59 	Loss: 0.019033, Accuracy: 3355/3500 (95.857143%)
+
+
+Validation set: Loss: 0.4636, Accuracy: 1307/1500 (87.133333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 60 	Loss: 0.010287, Accuracy: 3397/3500 (97.057143%)
+
+
+Validation set: Loss: 0.3224, Accuracy: 1350/1500 (90.000000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 61 	Loss: 0.007840, Accuracy: 3419/3500 (97.685714%)
+
+
+Validation set: Loss: 0.5981, Accuracy: 1282/1500 (85.466667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 62 	Loss: 0.010022, Accuracy: 3397/3500 (97.057143%)
+
+
+Validation set: Loss: 0.3259, Accuracy: 1348/1500 (89.866667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 63 	Loss: 0.014639, Accuracy: 3365/3500 (96.142857%)
+
+
+Validation set: Loss: 0.2654, Accuracy: 1384/1500 (92.266667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 64 	Loss: 0.016846, Accuracy: 3361/3500 (96.028571%)
+
+
+Validation set: Loss: 1.0510, Accuracy: 1124/1500 (74.933333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 65 	Loss: 0.032634, Accuracy: 3346/3500 (95.600000%)
+
+
+Validation set: Loss: 0.3204, Accuracy: 1368/1500 (91.200000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 66 	Loss: 0.011882, Accuracy: 3390/3500 (96.857143%)
+
+
+Validation set: Loss: 0.3863, Accuracy: 1332/1500 (88.800000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 67 	Loss: 0.006611, Accuracy: 3412/3500 (97.485714%)
+
+
+Validation set: Loss: 0.3939, Accuracy: 1345/1500 (89.666667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 68 	Loss: 0.006021, Accuracy: 3413/3500 (97.514286%)
+
+
+Validation set: Loss: 0.2947, Accuracy: 1366/1500 (91.066667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 69 	Loss: 0.005710, Accuracy: 3430/3500 (98.000000%)
+
+
+Validation set: Loss: 0.3321, Accuracy: 1356/1500 (90.400000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 70 	Loss: 0.005974, Accuracy: 3413/3500 (97.514286%)
+
+
+Validation set: Loss: 0.2180, Accuracy: 1398/1500 (93.200000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 71 	Loss: 0.004890, Accuracy: 3431/3500 (98.028571%)
+
+
+Validation set: Loss: 0.2520, Accuracy: 1387/1500 (92.466667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 72 	Loss: 0.004324, Accuracy: 3431/3500 (98.028571%)
+
+
+Validation set: Loss: 0.2609, Accuracy: 1388/1500 (92.533333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 73 	Loss: 0.013723, Accuracy: 3389/3500 (96.828571%)
+
+
+Validation set: Loss: 1.8593, Accuracy: 1108/1500 (73.866667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 74 	Loss: 0.061182, Accuracy: 3205/3500 (91.571429%)
+
+
+Validation set: Loss: 0.9678, Accuracy: 1151/1500 (76.733333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 75 	Loss: 0.025278, Accuracy: 3317/3500 (94.771429%)
+
+
+Validation set: Loss: 0.2317, Accuracy: 1385/1500 (92.333333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 76 	Loss: 0.014037, Accuracy: 3385/3500 (96.714286%)
+
+
+Validation set: Loss: 0.3873, Accuracy: 1343/1500 (89.533333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 77 	Loss: 0.011064, Accuracy: 3370/3500 (96.285714%)
+
+
+Validation set: Loss: 0.2349, Accuracy: 1402/1500 (93.466667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 78 	Loss: 0.009024, Accuracy: 3410/3500 (97.428571%)
+
+
+Validation set: Loss: 0.3211, Accuracy: 1354/1500 (90.266667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 79 	Loss: 0.010115, Accuracy: 3401/3500 (97.171429%)
+
+
+Validation set: Loss: 0.4396, Accuracy: 1335/1500 (89.000000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 80 	Loss: 0.015646, Accuracy: 3363/3500 (96.085714%)
+
+
+Validation set: Loss: 0.3017, Accuracy: 1348/1500 (89.866667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 81 	Loss: 0.021291, Accuracy: 3348/3500 (95.657143%)
+
+
+Validation set: Loss: 0.6910, Accuracy: 1235/1500 (82.333333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 82 	Loss: 0.009647, Accuracy: 3377/3500 (96.485714%)
+
+
+Validation set: Loss: 0.3081, Accuracy: 1364/1500 (90.933333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 83 	Loss: 0.005519, Accuracy: 3423/3500 (97.800000%)
+
+
+Validation set: Loss: 0.2120, Accuracy: 1401/1500 (93.400000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 84 	Loss: 0.013584, Accuracy: 3358/3500 (95.942857%)
+
+
+Validation set: Loss: 0.1957, Accuracy: 1408/1500 (93.866667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 85 	Loss: 0.007790, Accuracy: 3391/3500 (96.885714%)
+
+
+Validation set: Loss: 0.3602, Accuracy: 1341/1500 (89.400000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 86 	Loss: 0.006023, Accuracy: 3412/3500 (97.485714%)
+
+
+Validation set: Loss: 0.5259, Accuracy: 1289/1500 (85.933333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 87 	Loss: 0.004617, Accuracy: 3426/3500 (97.885714%)
+
+
+Validation set: Loss: 0.2398, Accuracy: 1389/1500 (92.600000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 88 	Loss: 0.004774, Accuracy: 3429/3500 (97.971429%)
+
+
+Validation set: Loss: 0.2047, Accuracy: 1402/1500 (93.466667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 89 	Loss: 0.004631, Accuracy: 3424/3500 (97.828571%)
+
+
+Validation set: Loss: 0.3083, Accuracy: 1356/1500 (90.400000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 90 	Loss: 0.008531, Accuracy: 3392/3500 (96.914286%)
+
+
+Validation set: Loss: 0.3743, Accuracy: 1349/1500 (89.933333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 91 	Loss: 0.045752, Accuracy: 3302/3500 (94.342857%)
+
+
+Validation set: Loss: 0.6275, Accuracy: 1258/1500 (83.866667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 92 	Loss: 0.036187, Accuracy: 3314/3500 (94.685714%)
+
+
+Validation set: Loss: 0.4044, Accuracy: 1338/1500 (89.200000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 93 	Loss: 0.028679, Accuracy: 3323/3500 (94.942857%)
+
+
+Validation set: Loss: 0.3424, Accuracy: 1358/1500 (90.533333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 94 	Loss: 0.012710, Accuracy: 3370/3500 (96.285714%)
+
+
+Validation set: Loss: 0.2817, Accuracy: 1374/1500 (91.600000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 95 	Loss: 0.007663, Accuracy: 3411/3500 (97.457143%)
+
+
+Validation set: Loss: 0.3077, Accuracy: 1374/1500 (91.600000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 96 	Loss: 0.006019, Accuracy: 3420/3500 (97.714286%)
+
+
+Validation set: Loss: 0.2550, Accuracy: 1392/1500 (92.800000%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 97 	Loss: 0.004945, Accuracy: 3416/3500 (97.600000%)
+
+
+Validation set: Loss: 0.3848, Accuracy: 1342/1500 (89.466667%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 98 	Loss: 0.005501, Accuracy: 3429/3500 (97.971429%)
+
+
+Validation set: Loss: 0.4494, Accuracy: 1325/1500 (88.333333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 99 	Loss: 0.008039, Accuracy: 3416/3500 (97.600000%)
+
+
+Validation set: Loss: 0.2724, Accuracy: 1388/1500 (92.533333%)
+
+The validation loss is not improved.
+------------------------------------------------
+Train Epoch: 100 	Loss: 0.007069, Accuracy: 3438/3500 (98.228571%)
+
+
+Validation set: Loss: 0.4369, Accuracy: 1340/1500 (89.333333%)
+
+The validation loss is not improved.
+------------------------------------------------
+0.9316
