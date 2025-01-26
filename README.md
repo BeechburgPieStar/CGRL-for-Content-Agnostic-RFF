@@ -33,6 +33,13 @@ python main.py --gpu 0 --len_mark 32 --lam_ACR 0.001 --lam_SCR 0.01 --code_state
 ### Dataset
 
 ```
+https://pan.baidu.com/s/1XeH3uMbuwOuYVfePFGBO2A?pwd=mdgh
+
+or 
+
+https://drive.google.com/drive/folders/1Z5iIuYZP2ilej3BsFaOFpx0Go-LOPMZM?usp=sharing
+
+
 The code for dataset generation is provided in the archive file ``Dataset_SNR_Content_Independent.rar,'' with reference to and thanks to [WTI-Cyber-Team](https://github.com/WTI-Cyber-Team/Public_Wireless_Signal_Datasets)
 ```
 
